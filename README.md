@@ -130,3 +130,5 @@ To enter the deep web, you need onion URLs. Always confirm you have the correct 
 The deep web offers a space for private transactions. By implementing strong security, using escrow services, and managing your personal information with caution, you can navigate these platforms. Always verify URLs, use encryption, and be aware of scams for a secure experience.
 
 Please contribute and add stars to this repo.
+
+Update:  14 July Link is now live and reachable
