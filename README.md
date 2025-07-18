@@ -131,4 +131,6 @@ The deep web offers a space for private transactions. By implementing strong sec
 
 Please contribute and add stars to this repo.
 
-Update:  14 July Link is now live and reachable
+
+
+Update: url is responsive
