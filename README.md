@@ -137,4 +137,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  24.07.2025 Fixed broken url, now accessible
+
+
+Update:  04 August 2025 url is live and functioning
